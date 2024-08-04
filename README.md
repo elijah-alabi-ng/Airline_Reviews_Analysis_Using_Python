@@ -1,6 +1,6 @@
-# Airline_Reviews_Analysis_Using_Python
+# Airline Customer Reviews Analysis Using Python
 
-A quick view of the CSV file reveals that it contains reviews for the top 10 rated airlines in 2023, including Singapore Airlines, Qatar Airways, ANA (All Nippon Airways), Emirates, Japan Airlines, Turkish Airlines, Air France, Cathay Pacific Airways, EVA Air, and Korean Air. It provides insights into passenger satisfaction and service quality aspects, ranging from seat comfort to inflight entertainment.
+A quick view of the CSV file reveals that it contains customer reviews for the top 10 rated airlines in 2023, including Singapore Airlines, Qatar Airways, ANA (All Nippon Airways), Emirates, Japan Airlines, Turkish Airlines, Air France, Cathay Pacific Airways, EVA Air, and Korean Air. It provides insights into passenger satisfaction and service quality aspects, ranging from seat comfort to inflight entertainment.
 
 The dataset consists of 8,100 reviews with 17 columns, including both numerical and categorical data. Here is a brief overview of the columns:
 
